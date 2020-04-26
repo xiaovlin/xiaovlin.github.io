@@ -1,11 +1,11 @@
 module.exports = {
   title: 'My Site',
   tagline: 'The tagline of my site',
-  url: 'https://xiaovlin.github.io/docusaurus',
-  baseUrl: '/docusaurus/',
+  url: 'https://xiaovlin.github.io/test',
+  baseUrl: '/test/',
   favicon: 'img/favicon.ico',
   organizationName: 'xiaovlin', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  projectName: 'test', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'My Site',
